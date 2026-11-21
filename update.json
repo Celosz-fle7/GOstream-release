@@ -2,7 +2,7 @@
   "version_code": 27,
   "version_name": "2.1.5",
   "apk_url": "https://github.com/Celosz-fle7/GOstream-release/releases/download/latest/app-release.apk",
-  "apk_sha256": "5c54484f4fa5185269cbd6d24f2173c0d6dba609f78ce0cf429b46a2524a786a",
-  "changelog": "\u2022 Tombol Sesuaikan Layar Persisten (Aspect Ratio): Siklus \ud83d\udcd0 Asli (Fit) -> \u2194\ufe0f Melebar (Stretch) -> \ud83d\udd0d Layar Penuh (Zoom)\n\u2022 Pengaturan Layar Tersimpan Otomatis: Pindah-pindah film/konten tetap mengingat pilihan layar terakhir\n\u2022 Pembersihan Otomatis Berkas APK Bekas (Anti-Penyimpanan Bengkak)\n\u2022 Optimasi Cache Gambar RGB_565 & Pembersihan RAM Otomatis",
+  "apk_sha256": "3905043c9ce0ac60c205c33b5c70e95da2292ae7fed62161010839985b34ec7d",
+  "changelog": "\u2022 Tombol Sesuaikan Layar Persisten (Aspect Ratio): Siklus \ud83d\udcd0 Asli (Fit) -> \u2194\ufe0f Melebar (Stretch) -> \ud83d\udd0d Layar Penuh (Zoom)\n\u2022 Pengaturan Layar Tersimpan Otomatis: Pindah-pindah film/konten tetap mengingat pilihan layar terakhir\n\u2022 Pembersihan Otomatis Berkas APK Bekas (Anti-Penyimpanan Bengkak)\n\u2022 Optimasi Cache Gambar RGB_565 & Pembersihan RAM Otomatis\n\u2022 Label Versi Dinamis Akurat (v2.1.5)",
   "force_update": false
 }
