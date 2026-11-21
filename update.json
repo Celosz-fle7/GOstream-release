@@ -1,8 +1,8 @@
 {
-  "version_code": 27,
-  "version_name": "2.1.5",
+  "version_code": 28,
+  "version_name": "2.1.6",
   "apk_url": "https://github.com/Celosz-fle7/GOstream-release/releases/download/latest/app-release.apk",
-  "apk_sha256": "3905043c9ce0ac60c205c33b5c70e95da2292ae7fed62161010839985b34ec7d",
-  "changelog": "\u2022 Tombol Sesuaikan Layar Persisten (Aspect Ratio): Siklus \ud83d\udcd0 Asli (Fit) -> \u2194\ufe0f Melebar (Stretch) -> \ud83d\udd0d Layar Penuh (Zoom)\n\u2022 Pengaturan Layar Tersimpan Otomatis: Pindah-pindah film/konten tetap mengingat pilihan layar terakhir\n\u2022 Pembersihan Otomatis Berkas APK Bekas (Anti-Penyimpanan Bengkak)\n\u2022 Optimasi Cache Gambar RGB_565 & Pembersihan RAM Otomatis\n\u2022 Label Versi Dinamis Akurat (v2.1.5)",
+  "apk_sha256": "932f66a8be10732647bf86805bbd7a59a00f6f0efcda9f567091bc36a606af57",
+  "changelog": "\u2022 Tab Kategori Bersih: Hapus Short TV, fokus pada 4 pilar utama (Film Bioskop, Serial TV, Anime, Midnight)\n\u2022 Filter Taksonomi Lengkap Ramah Remote TV (Akses, Urutan, Rating, Genre, Negara, Tahun)\n\u2022 UI Profil & Pengaturan Google TV Style: Right Side Drawer meluncur halus dari kanan\n\u2022 Riwayat Tontonan (Watch History) terintegrasi di dalam panel profil\n\u2022 Proteksi Native C++ Signer (libgostream.so) & R8 Code Shrinking",
   "force_update": false
 }
