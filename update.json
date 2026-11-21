@@ -1,8 +1,8 @@
 {
-  "version_code": 25,
-  "version_name": "2.1.3",
+  "version_code": 27,
+  "version_name": "2.1.5",
   "apk_url": "https://github.com/Celosz-fle7/GOstream-release/releases/download/latest/app-release.apk",
-  "apk_sha256": "6c9dc13ac25b66d0761b31aacdca1666cf7bdaa6ae760b5e34af322dadeb18e6",
-  "changelog": "\u2022 Keamanan Tingkat Lanjut: Proteksi Native C++ Engine (libgostream.so) & XOR Memory Masking\n\u2022 R8 Code Obfuscation & Biner Hardening: Menjaga privasi protokol & performa eksekusi lebih cepat\n\u2022 Sistem Auto-Update Kebal Manipulasi: Validasi Domain Whitelist & Verifikasi Integritas SHA-256\n\u2022 Identitas Perangkat Mandiri & Persisten di TV masing-masing",
+  "apk_sha256": "5c54484f4fa5185269cbd6d24f2173c0d6dba609f78ce0cf429b46a2524a786a",
+  "changelog": "\u2022 Tombol Sesuaikan Layar Persisten (Aspect Ratio): Siklus \ud83d\udcd0 Asli (Fit) -> \u2194\ufe0f Melebar (Stretch) -> \ud83d\udd0d Layar Penuh (Zoom)\n\u2022 Pengaturan Layar Tersimpan Otomatis: Pindah-pindah film/konten tetap mengingat pilihan layar terakhir\n\u2022 Pembersihan Otomatis Berkas APK Bekas (Anti-Penyimpanan Bengkak)\n\u2022 Optimasi Cache Gambar RGB_565 & Pembersihan RAM Otomatis",
   "force_update": false
 }
