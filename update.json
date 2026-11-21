@@ -1,0 +1,8 @@
+{
+  "version_code": 25,
+  "version_name": "2.1.3",
+  "apk_url": "https://github.com/Celosz-fle7/GOstream-release/releases/download/latest/app-release.apk",
+  "apk_sha256": "6c9dc13ac25b66d0761b31aacdca1666cf7bdaa6ae760b5e34af322dadeb18e6",
+  "changelog": "\u2022 Keamanan Tingkat Lanjut: Proteksi Native C++ Engine (libgostream.so) & XOR Memory Masking\n\u2022 R8 Code Obfuscation & Biner Hardening: Menjaga privasi protokol & performa eksekusi lebih cepat\n\u2022 Sistem Auto-Update Kebal Manipulasi: Validasi Domain Whitelist & Verifikasi Integritas SHA-256\n\u2022 Identitas Perangkat Mandiri & Persisten di TV masing-masing",
+  "force_update": false
+}
